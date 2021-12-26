@@ -17,22 +17,22 @@
 
 ```apt install git```
 
-```git clone https://github.com/CLB-09/PREMIUM-FBI.git```
+```git clone https://github.com/CLB-09/PREMIUM-FFB.git```
 
 ```ls```
 
-```cd PREMIUM-FBI```
+```cd PREMIUM-FFB```
 
 ```ls```
 
 ```git pull```
 
-```python PREMIUM-FBI.py```
+```python PREMIUM-FFB.py```
 
 
 # SINGLE COMMAND
 
-```apt update && apt upgrade -y ; pkg install python && python2 -y ; pip2 install requests && mechanize -y ; apt install lolcat ; pip install requests ps4 ; pip install future ; apt install git ; git clone https://github.com/CLB-09/PREMIUM-FBI.git ; git pull ; cd cd PREMIUM-FBI ; python PREMIUM-FBI.py```
+```apt update && upgrade -y ; pkg install python -y ; pip2 install requests && mechanize -y ; apt install requests lolcat && ps4 && future -y ; apt install git ; git clone https://github.com/CLB-09/PREMIUM-FBI.git ; cd PREMIUM-FBI ; python PREMIUM-FBI.py```
 
 
 ## Find Me on :
