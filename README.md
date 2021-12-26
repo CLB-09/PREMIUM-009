@@ -1,5 +1,5 @@
 # PREMIUM-FFB
-
+# COPY/AZIM
 # THE CLB-09 
 # OLD 2009 & 2012 ACCOUNT CLONING
 # NEW UPDATE 27.12.2021
@@ -17,13 +17,13 @@
 
 ```apt install git```
 
-```git clone https://github.com/CLB-09/PREMIUM-FFB.git```
+```git clone https://github.com/CLB-09/THE-PREMIUM.git```
 
-```cd PREMIUM-FFB```
+```cd THE-PREMIUM```
 
 ```git pull```
 
-```python PREMIUM-FFB.py
+```python THE-PREMIUM.py
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-CLB--09-green?style=for-the-badge&logo=github)](https://github.com/CLB-09)
